@@ -1,0 +1,6 @@
+framework module TestWan {
+  umbrella header "TestWan-umbrella.h"
+
+  export *
+  module * { export * }
+}
